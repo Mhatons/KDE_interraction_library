@@ -1,0 +1,1 @@
+{"version":3,"file":"index.cjs","sources":["../../src/index.ts"],"sourcesContent":["export const initializeKDE = () => {\r\n    console.log('KDE Interaction Library initialized.');\r\n};\r\n"],"names":[],"mappings":";;AAAO,MAAM,aAAa,GAAG,MAAK;AAC9B,IAAA,OAAO,CAAC,GAAG,CAAC,sCAAsC,CAAC;AACvD;;;;"}
